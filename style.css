@@ -1,0 +1,38 @@
+.card {
+  text-align: center;
+  margin-right: 20px;
+  position: relative;
+  top: 75px;
+  
+}
+.name {
+  color: white;
+  font-size: 30px;
+  background: black;
+
+}
+.name-2 {
+  color: white;
+  font-size: 30px;
+  background: #53b050;
+}
+.year {
+  font-size: 25px;
+}
+
+.btn-success {
+  border-radius: 0px !important;
+  opacity: unset !important;
+  border: 1px solid #28a745;
+  font-size: 18px;
+  font-weight: bold;
+}
+.button,
+.year {
+  background: #eeeeee;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
